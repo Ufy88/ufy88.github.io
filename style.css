@@ -1,0 +1,26 @@
+.rev {
+	font-size: larger;
+	color: green;
+	height: 300px;
+	width: 300px;
+	background: black;
+}
+
+
+.rec {
+	font-size: larger;
+	color: aqua;
+	height: 100px;
+	width: 100px;
+	background: white;
+	margin: 100px;
+}
+
+BODY {
+	background: url(img/f.png) no-repeat;
+	background-size: cover;
+   }
+   
+.fire_mini {
+	position: relative;
+}
